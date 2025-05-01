@@ -4,8 +4,11 @@ This site is built with a focus on user experience,clean designsand easy navigat
 
 FEATURES
  *Browser featured property listings.
+ 
  *Contact form for inquires.
+ 
  *An about us section to know our goals and determinations to work for you.
+ 
  * Responsive design for mobile,tablet and desktop.
 
    
