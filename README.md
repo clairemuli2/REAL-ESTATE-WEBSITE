@@ -1,8 +1,10 @@
 OVERVEIW
+
 This is a mordern real estate website design to showcase houses on listings.To help you find your comfort place, a place to call home.
 This site is built with a focus on user experience,clean designsand easy navigation.
 
 FEATURES
+
  *Browser featured property listings.
  
  *Contact form for inquires.
@@ -13,10 +15,13 @@ FEATURES
 
    
    TECH STACK
+   
    use of :
+   
    *Javascript
    *HTML
    *CSS
 
    LICENSE
+   
    This project is licensed under the MIT license.
